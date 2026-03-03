@@ -7,20 +7,40 @@
 
  Linguagem Markdown: 
 
+ ---
  Negrito: **/__ e fecha
+ 
+ ---
  Itálico: */_ e fecha
+ 
+ ---
  Riscado: ~~ e fecha
+ 
+ ---
  Titulo: # (maior) ## (subtitulo) ### (nivel 3)
+ 
+ ---
  Linha: ---/*** 
-
+ 
+ ---
+ 
  Lista numerada:
+ 
+ ---
 
  1.: (sequencia em numeros)
-    1.: (em romanos)
-
+ 1.: (com 3 espaços em romanos)
+    
+ ---
+ 
  Lista demarcada: 
+ 
+ ---
+ 
  (* em sequencia)
-    (* descolorida)
+ (*  com 3 espaços descolorida)
+    
+ ---
 
- Links: [escrita](url)
+ Links: []: para mencionar (): para inserir url
 
